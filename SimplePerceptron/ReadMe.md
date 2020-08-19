@@ -1,5 +1,8 @@
 Algebraic simplification
 
+(note this code does implement the full set of rules for simplification, and even seems to bug on more complicated expressions, probably something to do
+with the incomplete parser).
+
 This example is based on the very hastiliy implemented Genetic Programming Example
 (soon to be updated). This code needs a tidy up. A lot of excess code has been removed,
 including open GL dependencies that were left in there by accident.
